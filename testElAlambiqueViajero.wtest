@@ -1,0 +1,7 @@
+import personajes.*
+import lugares.*
+import autos.*
+
+test "mate" {
+  assert.equals("mateConYerba", buenosAires.souvenir())
+}
